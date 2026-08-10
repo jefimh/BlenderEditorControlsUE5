@@ -3,7 +3,7 @@
 Are you tired of clicking gizmos? Whether you're transitioning from Blender to Unreal Engine, or you simply want a faster, hotkey-driven workflow, the Blender Editor Controls plugin is designed to accelerate level design, animation, and scene blocking, by letting you move, rotate, and scale assets using hotkeys, and numeric input.
 
 
-## [GET IT FOR FREE ON FAB](https://www.fab.com/listings/9bb18e16-0dfa-472b-b421-c9c277dd0d09) (Pending approval for EU)
+## [GET IT FOR FREE ON FAB](https://www.fab.com/listings/9bb18e16-0dfa-472b-b421-c9c277dd0d09)
 
 ### Manipulate transforms using hotkeys (rebindable)
 <img width="470" height="479" alt="overview" src="https://github.com/user-attachments/assets/d6328d34-ee90-4478-8f87-dc962d8c88db" />
@@ -17,7 +17,7 @@ Are you tired of clicking gizmos? Whether you're transitioning from Blender to U
 ---
 ## Table of Contents
 - [Bringing Blender editor controls to Unreal Engine 5!](#bringing-blender-editor-controls-to-unreal-engine-5)
-  - [GET IT FOR FREE ON FAB (Pending approval for EU)](#get-it-for-free-on-fab-pending-approval-for-eu)
+  - [GET IT FOR FREE ON FAB](#get-it-for-free-on-fab)
     - [Manipulate transforms using hotkeys (rebindable)](#manipulate-transforms-using-hotkeys-rebindable)
     - [Manipulate transforms using numerical values](#manipulate-transforms-using-numerical-values)
     - [Constrain transform manipulation to axis/plane of choice](#constrain-transform-manipulation-to-axisplane-of-choice)
